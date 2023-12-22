@@ -1,7 +1,8 @@
 <template>
   <div>
-    Hello world! 
+    AHAHAHHAHAHAHAHA
   </div>
+  <div class="hahahah">hahahha</div>
   <p>{{ text1 }}</p>
   <p>{{ text2 }}</p>
   <p v-if="visible">Hidden</p>
