@@ -1,6 +1,6 @@
 <template>
   <div>
-    Hello world! 
+    <p>Привет, Илья!</p>
   </div>
   <p>{{ text1 }}</p>
   <p>{{ text2 }}</p>
