@@ -4,6 +4,7 @@
   </div>
   <p>{{ text1 }}</p>
   <p>Тест тест тест</p>
+  <p>Привет, Вискас</p>
   <p>{{ text2 }}</p>
   <p v-if="visible">Hidden</p>
   <img v-bind:src="attr" class="img">
