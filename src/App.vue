@@ -1,6 +1,6 @@
 <template>
   <div>
-    Hello GooblaGrob
+    Hello GoobkaGrob
   </div>
   <p>{{ text1 }}</p>
   <p>{{ text2 }}</p>
