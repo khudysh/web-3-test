@@ -1,6 +1,7 @@
 <template>
   <div>
     AHAHAHHAHAHAHAHA
+    not hehe
   </div>
   <div class="hahahah">hahahha</div>
   <p>{{ text1 }}</p>
